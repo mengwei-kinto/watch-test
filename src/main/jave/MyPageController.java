@@ -1,4 +1,4 @@
 
-class MyPageController{
+class BbqMyPageController{
     
 }
